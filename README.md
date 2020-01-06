@@ -1,5 +1,5 @@
 # BiS438 Bioinformatics
-[Autumn 2019] [KAIST BiS438] Colab codes for bioinformatics course projects
+[Autumn 2019] [KAIST BiS438] Colab notebooks for biological data analysis
 
 __Project#1:__ (MLP) Toxicity prediction from ECFP molecular feature
 
