@@ -1,0 +1,1 @@
+Do multinomial sampling (different from argmax) with temperature factor

@@ -1,0 +1,23 @@
+In this project, we will predict the toxicity of compounds using a neural network model (Mayr, Andreas, et al. "DeepTox: toxicity prediction using deep learning." Frontiers in Environmental Science 3 (2016): 80.). 
+
+The given datasets are 'nr-ar.smiles' and 'nr-er.smiles' file. 
+
+Each file contains 'smiles string of compound', 'array data', and 'activity value' (toxicity) at each raw. 
+
+Activity value is marked as 0 when a compound is non-toxic, and 1 vice versa. 
+
+We will use RDKit and Keras (tensorflow backend) package to build a prediction model. 
+
+RDKit is the most widely used python package for handling chemical compounds. 
+
+Keras is one of famous packages for the neural network.
+
+A pseudo code (project1_pseudo_cod.py) is also provided (you can use this code or make your own code from scratch)
+
+1) you need to build a neural network model for predicting the toxicity of compounds.
+2) Train your model using the training dataset (and optimize your model using validation set).
+3) Report the ROC-AUC score of the test dataset using the trained model.
+4) Use google colab (or whatever you want)
+5) Upload  jupyter notebook (".ipynb" file) or link to your google colab code 
+
+Due date: Sep/22/23:59

@@ -1,0 +1,5 @@
+Use RDKit + Deepchem library
+(1) Convert SMILE to fingerprint representation
+(2) Use the converted representation as input to FCNN model
+(3) Training: Softmax + batchnorm + L2 + dropout with Adam optimizer
+(4) Use early stopping to prevent overfitting

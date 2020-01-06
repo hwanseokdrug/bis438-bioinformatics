@@ -1,0 +1,7 @@
+제 코드는 2파일로 구성되어 있으며, 각각 discussion 내용에 차이가 있습니다. 순서대로 실행해 주세요.
+
+Note #1. ELAVL1
+https://colab.research.google.com/drive/1NvEWDIOH5nuQ0VGwy17ebeWVWeJoiGoL
+
+Note #2. ALKBH5
+https://colab.research.google.com/drive/1VgWfXqJbyivCMX5oqPnAEhWySy2E64_C
