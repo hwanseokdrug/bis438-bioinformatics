@@ -1,26 +1,16 @@
 # BiS438 Bioinformatics
 [Autumn 2019] [KAIST BiS438] Colab codes for bioinformatics course projects
 
-__Project#1:__ Toxicity prediction from ECFP molecular feature
-
-(MLP)
+__Project#1:__ (MLP) Toxicity prediction from ECFP molecular feature
 
 
-__Project#2:__ Protein-RNA binding specificity prediction
-
-(1D CNN)
+__Project#2:__ (1D CNN) Protein-RNA binding specificity prediction
 
 
-__Project#3:__ Functional peptide generation
-
-(generative LSTM)
+__Project#3:__ (generative LSTM) Functional peptide generation
 
 
-__Project#4:__ Mutation effect prediction
-
-(strided autoregressive 1D CNN)
+__Project#4:__ (autoregressive CNN) Mutation effect prediction
 
 
-__Project#5:__ Biological graph analysis
-
-(GCN)
+__Project#5:__ (GCN) Biological graph analysis
